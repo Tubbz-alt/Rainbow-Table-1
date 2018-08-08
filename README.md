@@ -6,3 +6,5 @@ Files:
 RainbowAssign.hs: A rainbow table module used inside rainbowCode.hs for some functionality like pwHash which is responsible to hash a random string 
 
 rainbowCode.js : Actual code to create the table and crack the passwords. 
+
+table.txt: A default table provided 
